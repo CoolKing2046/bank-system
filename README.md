@@ -189,8 +189,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-- **Developer**: Roy
-- **Email**: [your.email@example.com]
+- **Developer**: Roy Yang
+- **Email**: [royyang1991@gmail.com]
 - **Project Repository**: [https://github.com/CoolKing2046/bank-system]
 
 ---
